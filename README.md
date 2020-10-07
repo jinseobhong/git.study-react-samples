@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)으로 Bootstrap이 되었습니다.
 
-## Available Scripts
+## 사용 가능한 스크립트
 
-In the project directory, you can run:
+프로젝트의 디렉토리에서 다음을 스크립트들을 실행할 수 있습니다.
 
 ### `npm start`
 
