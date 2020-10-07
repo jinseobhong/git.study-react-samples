@@ -30,7 +30,7 @@
 
 빌드는 축소되고 파일 이름에는 해시가 포함됩니다. 이 앱을 배포할 준비가 되었습니다!
 
-자세한 내용은 [https://facebook.github.io/create-react-app/docs/deployment)](https://facebook.github.io/create-react-app/docs/deployment)에 대한 섹션을 참조하세요.
+자세한 내용은 [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)에 대한 섹션을 참조하세요.
 
 ### `npm run eject`
 
@@ -59,15 +59,15 @@ React를 배우려면 [React 문서](https://reactjs.org/)를 확인하세요.
 
 ### 진보적인 웹 앱 만들기
 
-이 섹션은 [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app]으로 이동했습니다.
+이 섹션은 [(https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)으로 이동했습니다.
 
 ### 고급 설정
 
-이 섹션은 [https://facebook.github.io/create-react-app/docs/advanced-configuration]https://facebook.github.io/create-react-app/docs/advanced-configuration)으로 이동했습니다.
+이 섹션은 [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)으로 이동했습니다.
 
 ### 배포
 
-이 섹션은 [https://facebook.github.io/create-react-app/docs/deployment]으로 이동했습니다.
+이 섹션은 [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)으로 이동했습니다.
 
 ### `npm run build` 가 실패했을 시
 
